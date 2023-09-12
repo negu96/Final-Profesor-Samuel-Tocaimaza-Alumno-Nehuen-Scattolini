@@ -138,12 +138,7 @@ footer {
   background-color: rgb(57, 49, 49);
 }
 
-main {
-  /*PAGINA INDEX*/
-  /* PAGINA QUIENES SOMOS*/
-  /*PAGINA COMO TRABAJAMOS*/
-  /*PAGINA UBICACION Y CONTACTO*/
-}
+
 main .colorDeTexto {
   color: #fff;
 }
@@ -162,7 +157,7 @@ main .boton:hover {
   text-transform: uppercase;
   transform: scale(1.8, 1.8);
 }
-main h1 {
+main .textoBv {
   font-family: "Montserrat", sans-serif;
   color: white;
   font-size: 130px;
